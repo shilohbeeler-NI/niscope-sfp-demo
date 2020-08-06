@@ -1,11 +1,11 @@
-# Contributing to \<reponame\> 
+# Contributing to \<niscope-sfp-demo\> 
 
-Contributions to \<reponame\> are welcome from all!
+Contributions to \<niscope-sfp-demo\> are welcome from all!
 
-\<reponame\> is managed via [git](https://git-scm.com), with the canonical upstream
-repository hosted on [GitHub](https://github.com/ni/<reponame>/).
+\<niscope-sfp-demo\> is managed via [git](https://git-scm.com), with the canonical upstream
+repository hosted on [GitHub](https://github.com/ni/<niscope-sfp-demo>/).
 
-\<reponame\> follows a pull-request model for development.  If you wish to
+\<niscope-sfp-demo\> follows a pull-request model for development.  If you wish to
 contribute, you will need to create a GitHub account, fork this project, push a
 branch with your changes to your project, and then submit a pull request.
 
@@ -13,11 +13,9 @@ See [GitHub's official documentation](https://help.github.com/articles/using-pul
 
 # Getting Started
 
-- TODO: include build steps here.
-
-# Testing
-
-- TODO: include testing steps here.
+- Install matlibplot, nimodinst, niscope, numpy, tkinter, and tkintertable.
+- Run demo.py with python3.
+- That's all!
 
 # Developer Certificate of Origin (DCO)
 
@@ -49,5 +47,5 @@ See [GitHub's official documentation](https://help.github.com/articles/using-pul
 
 (taken from [developercertificate.org](https://developercertificate.org/))
 
-See [LICENSE](https://github.com/ni/<reponame>/blob/master/LICENSE)
-for details about how \<reponame\> is licensed.
+See [LICENSE](https://github.com/ni/<niscope-sfp-demo>/blob/master/LICENSE)
+for details about how \<niscope-sfp-demo\> is licensed.
